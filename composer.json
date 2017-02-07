@@ -18,12 +18,8 @@
     },
     "autoload": {
         "psr-4": {
-            "iasilva\\messages\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "iasilva\\messages\\": "tests/"
+            "thirday\\messages\\": "src/"
         }
     }
+    
 }
