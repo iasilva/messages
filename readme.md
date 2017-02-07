@@ -11,7 +11,7 @@ como primeiro parâmetro do método $message->exibeMensagem($classMessage,$messa
 
 Exemplo de mensagem de informação:
 -$message->exibeMensagem(new thirday\messages\InfoMessage, "Olá! essa é uma mensagem de informação");
-
+-$message->exibeMensagem(new thirday\messages\ErrorMessage, "Olá! essa é uma mensagem de ERRO");
 
 
 
