@@ -1,30 +1,14 @@
 {
-    "name": "thirday/messages",
+    "name": "iasilva/messages",
+    "description": "Pacote gerador de mensagens estilizadas com bootstrap",
     "type": "library",
-    "description": ":Generates messages configured with twitter bootstrap",
-    "keywords": [
-        "thirday",
-        "messages"
-    ],
-    "homepage": "https://github.com/iasilva/messages",
     "license": "MIT",
     "authors": [
         {
             "name": "Ivan Alves da Silva",
-            "email": "ivan.alves@outlook.com",
-            "homepage": "https://www.facebook.com/ivanalvessilva",
-            "role": "Developer"
+            "email": "ivan.alves@outlook.com"
         }
     ],
-    "require": {
-        "php" : ">=5.4.0"
-    },
-    "require-dev": {
-        "phpunit/phpunit" : "~4.0||~5.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "thirday\\messages\\": "src/"
-        }
-    }
+    "minimum-stability": "stable",
+    "require": {}
 }
